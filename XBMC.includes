@@ -489,3 +489,4 @@ project/cmake/platform/android
 project/cmake/treedata/android
 xbmc/network/android
 tools/android/packaging/xbmc/src/interfaces
+tools/android/packaging/xbmc/src
